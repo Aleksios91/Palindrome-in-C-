@@ -5,7 +5,17 @@ Palindromes are words (or sequence of numbers) that are read the same both forwa
 
 For example:
 Race car - r a c e c a r 
+
+
 Taco cat- t a c o c a t
+
+
+
+
 555333333555 - 5 5 5 3 3 3 3 3 3 5 5 5
+
+
+
+
 
 It will be a fun little program for you, so make sure you have all the joy and fun!
